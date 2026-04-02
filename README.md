@@ -1,5 +1,5 @@
 
-##  Google Gemini를 활용한 프롬프트 엔지니어링 심화 과정(2026.04.08 ~ 04.10 , 21Hr)
+##  Google Gemini를 활용한 프롬프트 엔지니어링 심화 과정 (2026.04.08 ~ 04.10 , 21Hr)
 <br>
 
 ## 강사 git 주소 :    https://github.com/digicope/gemini_0408
