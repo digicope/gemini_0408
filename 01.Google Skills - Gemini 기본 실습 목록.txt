@@ -59,28 +59,33 @@ https://www.skills.google/course_templates/881/labs/475235
 Gemini for Application Developers --> Develop an app with Gemini
 이 실습에서는 Google Cloud의 AI 기반 공동작업 도구인 Gemini를 사용하여 샘플 앱을 탐색, 생성,
 수정, 테스트, 배포합니다.
+
+[11] Develop an App with the Vertex AI Gemini API : 입문
+https://www.skills.google/course_templates/980/labs/527090
+Integrating Applications with Gemini 1.0 Pro on Google Cloud --> Develop an App with the Vertex AI Gemini API
+이 실습에서는 Vertex AI SDK for Python을 사용하여 Vertex AI Gemini API를 호출합니다.
 =============================================================
 --------------------------------------------------------
 [Path] : Gemini in BigQuery
 https://www.skills.google/paths/1803
 --------------------------------------------------------
-[11] Explore Data with Gemini in BigQuery : 입문
+[12] Explore Data with Gemini in BigQuery : 입문
 https://www.skills.google/paths/1803/course_templates/1169/labs/608709
 Gemini in BigQuery --> Boost Productivity with Gemini in BigQuery --> Explore Data with Gemini in BigQuery
 
-[12] Develop Code with Gemini in BigQuery : 입문
+[13] Develop Code with Gemini in BigQuery : 입문
 https://www.skills.google/paths/1803/course_templates/1169/labs/608711
 Gemini in BigQuery --> Boost Productivity with Gemini in BigQuery --> Develop Code with Gemini in BigQuery
 
-[13] Analyze Customer Reviews with Gemini Using SQL : 중급
+[14] Analyze Customer Reviews with Gemini Using SQL : 중급
 https://www.skills.google/paths/1803/course_templates/1133/labs/608697
 Gemini in BigQuery --> Work with Gemini Models in BigQuery --> Analyze Customer Reviews with Gemini Using SQL
 
-[14] Analyze Customer Reviews with Gemini Using Python Notebooks : 중급
+[15] Analyze Customer Reviews with Gemini Using Python Notebooks : 중급
 https://www.skills.google/paths/1803/course_templates/1133/labs/608699
 Gemini in BigQuery --> Work with Gemini Models in BigQuery -->Analyze Customer Reviews with Gemini Using Python Notebooks
 
-[15] Create a RAG Application with BigQuery : 중급
+[16] Create a RAG Application with BigQuery : 중급
 https://www.skills.google/paths/1803/course_templates/1210/labs/529948
 Gemini in BigQuery --> Create Embeddings, Vector Search, and RAG with BigQuery --> Create a RAG Application with BigQuery
 =============================================================
