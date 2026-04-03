@@ -36,15 +36,25 @@ Prompt Design in Vertex AI -->Getting Started with Google Generative AI Using th
 [7] Prompt Design in Vertex AI: Challenge Lab : 입문
 https://www.skills.google/course_templates/976/labs/550878
 Prompt Design in Vertex AI -->Prompt Design in Vertex AI: Challenge Lab
+
+[8] Introduction to Function Calling with Gemini : 중급
+https://www.skills.google/course_templates/959/labs/592559
+Explore Generative AI with the Gemini API in Vertex AI --> Introduction to Function Calling with Gemini
+이 실습에서는 다음을 수행합니다.
+Google Gen AI SDK for Python 설치
+Vertex AI의 Gemini API를 사용하여 model_name 모델과 상호 작용하는 방법:
+텍스트 프롬프트에서 함수 호출을 생성하여 고객이 Google 스토어의 제품 정보를 얻도록 지원
+텍스트 프롬프트에서 함수 호출을 생성하고 외부 API를 호출하여 주소의 지오코딩 구현
+텍스트 프롬프트에서 함수 호출을 생성하여 로그 데이터에서 엔티티 추출
 =============================================================
-[8] Prototype Applications in Google AI Studio : 입문
+[9] Prototype Applications in Google AI Studio : 입문
 https://www.skills.google/focuses/129388?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=78771834
 =============================================================
 --------------------------------------------------------
 [Course] : Gemini for Application Developers
 https://www.skills.google/course_templates/881/
 --------------------------------------------------------
-[9] Develop an app with Gemini : 입문
+[10] Develop an app with Gemini : 입문
 https://www.skills.google/course_templates/881/labs/475235
 Gemini for Application Developers --> Develop an app with Gemini
 이 실습에서는 Google Cloud의 AI 기반 공동작업 도구인 Gemini를 사용하여 샘플 앱을 탐색, 생성,
@@ -54,23 +64,23 @@ Gemini for Application Developers --> Develop an app with Gemini
 [Path] : Gemini in BigQuery
 https://www.skills.google/paths/1803
 --------------------------------------------------------
-[10] Explore Data with Gemini in BigQuery : 입문
+[11] Explore Data with Gemini in BigQuery : 입문
 https://www.skills.google/paths/1803/course_templates/1169/labs/608709
 Gemini in BigQuery --> Boost Productivity with Gemini in BigQuery --> Explore Data with Gemini in BigQuery
 
-[11] Develop Code with Gemini in BigQuery : 입문
+[12] Develop Code with Gemini in BigQuery : 입문
 https://www.skills.google/paths/1803/course_templates/1169/labs/608711
 Gemini in BigQuery --> Boost Productivity with Gemini in BigQuery --> Develop Code with Gemini in BigQuery
 
-[12] Analyze Customer Reviews with Gemini Using SQL : 중급
+[13] Analyze Customer Reviews with Gemini Using SQL : 중급
 https://www.skills.google/paths/1803/course_templates/1133/labs/608697
 Gemini in BigQuery --> Work with Gemini Models in BigQuery --> Analyze Customer Reviews with Gemini Using SQL
 
-[13] Analyze Customer Reviews with Gemini Using Python Notebooks : 중급
+[14] Analyze Customer Reviews with Gemini Using Python Notebooks : 중급
 https://www.skills.google/paths/1803/course_templates/1133/labs/608699
 Gemini in BigQuery --> Work with Gemini Models in BigQuery -->Analyze Customer Reviews with Gemini Using Python Notebooks
 
-[14] Create a RAG Application with BigQuery : 중급
+[15] Create a RAG Application with BigQuery : 중급
 https://www.skills.google/paths/1803/course_templates/1210/labs/529948
 Gemini in BigQuery --> Create Embeddings, Vector Search, and RAG with BigQuery --> Create a RAG Application with BigQuery
 =============================================================
