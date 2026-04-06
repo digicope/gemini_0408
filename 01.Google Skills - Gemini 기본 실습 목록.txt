@@ -9,7 +9,7 @@ https://www.skills.google/course_templates/1426
 https://www.skills.google/course_templates/1426/labs/582284
 Develop AI-Powered Prototypes in Google AI Studio --> Google AI Studio: Prompt Design
 
-[2] Explore the Multimodal Capabilities of Google AI Studio : 입문
+[2] Explore the Multimodal Capabilities of Google AI Studio : 입문--> (실습 불가)
 https://www.skills.google/course_templates/1426/labs/582285
 Develop AI-Powered Prototypes in Google AI Studio --> Explore the Multimodal Capabilities of Google AI Studio
 
